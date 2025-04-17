@@ -1,6 +1,8 @@
 # 
 
-# The Pickleball Experience: A One Year Journey
+# Racquet Sports
+
+## The Pickleball Experience: A One Year Journey
 
 ![Pickleball_Resizaed](./Pickleball_Resized.jpg)
 
