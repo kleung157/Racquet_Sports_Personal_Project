@@ -2,6 +2,8 @@
 
 # The Pickleball Experience: A One Year Journey
 
+![Pickleball_Resizaed](./Pickleball_Resized.jpg)
+
 **Author:** Kevin Leung
 
 **Date:**  2024/02/27
