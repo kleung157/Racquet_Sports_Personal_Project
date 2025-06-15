@@ -4,7 +4,7 @@
 
 ## The Pickleball Experience: A One Year Journey
 
-![Pickleball_Resizaed](./Pickleball_Resized.jpg)
+![Pickleball_Resizaed](./images/Pickleball_Resized.jpg)
 
 **Author:** Kevin Leung
 
@@ -44,7 +44,7 @@ In total there were 417 sessions from November 2023 to January 2025. I excluded 
 
 https://public.tableau.com/views/pickleball_dashboard/ThePickleballExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Image](https://github.com/kleung157/Pickleball_Experience_Personal_Project/blob/8a54ebb598c8f34ba3a354fa17caaa8abc865f3d/pickleball_dashboard.png)
+![Image](./images/pickleball_dashboard.png)
 
 ## 5. Insights and Recommendations:
 
