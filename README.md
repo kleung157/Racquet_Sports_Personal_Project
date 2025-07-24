@@ -38,11 +38,15 @@ My goal was to reach 1000 hours in this sport during a one-year period and see w
 
 An early exploratory data analysis (EDA) rendition of the project using SQL and PowerBi.
 
-[SQL](https://github.com/kleung157/Racquet_Sports_Personal_Project/blob/main/documents/preliminary_eda.sql)
+[SQL Data](https://github.com/kleung157/Racquet_Sports_Personal_Project/blob/main/documents/preliminary_eda.sql)
 
-[PowerBI](./images/bi_dashboard.png)
+[PowerBI Visualization](./images/bi_dashboard.png)
 
 The most recent iteration of the project added data through Microsoft Excel and Tableau.
+
+[Excel Data](./documents/pickleball_2023_2025_raw_data_v01.csv)
+
+[Tableau](./images/pickleball_dashboard.png)
 
 Metrics tracked: session_id, date, city, state, address, latitude, longitude, court_name, session_type, court_type, time_spent_mins, weekday
 
