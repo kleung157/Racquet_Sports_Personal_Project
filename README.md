@@ -18,7 +18,7 @@
    
 2. Objective
    
-3. Data Details
+3. Data Preparation and Analysis
    
 4. Visualization
    
@@ -34,7 +34,7 @@ Towards the end of October 2024, I was exposed to pickleball by my brother in Te
 
 My goal was to reach 1000 hours in this sport during a one-year period and see where that would take me in terms of expertise.
 
-## 3. Data Details:
+## 3. Data Preparation and Analysis
 
 An early exploratory data analysis (EDA) rendition of the project using SQL and PowerBi.
 
