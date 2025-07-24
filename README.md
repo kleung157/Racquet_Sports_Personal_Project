@@ -36,6 +36,14 @@ My goal was to reach 1000 hours in this sport during a one-year period and see w
 
 ## 3. Data Details:
 
+An early exploratory data analysis (EDA) rendition of the project using SQL and PowerBi.
+
+[SQL](https://github.com/kleung157/Racquet_Sports_Personal_Project/blob/main/documents/preliminary_eda.sql)
+
+[PowerBI](./images/bi_dashboard.png)
+
+The most recent iteration of the project added data through Microsoft Excel and Tableau.
+
 Metrics tracked: session_id, date, city, state, address, latitude, longitude, court_name, session_type, court_type, time_spent_mins, weekday
 
 In total there were 417 sessions from November 2023 to January 2025. I excluded 2 sessions from the dataset because of a missed naming snake_case error during data input. Including those points do not create major deviations in the overall summation of data. Using the court names I logged, I used google maps to locate the latitude, longitude and address of each for geographical representation of the locations I visited. 
