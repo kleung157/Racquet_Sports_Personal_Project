@@ -44,7 +44,7 @@ An early exploratory data analysis (EDA) rendition of the project using SQL and 
 
 The most recent iteration of the project added data through Microsoft Excel and Tableau.
 
-[Excel Data](./documents/pickleball_2023_2025_raw_data_v01.csv)
+[Excel Data](./data/pickleball_2023_2025_raw_data_v01.csv)
 
 [Tableau](./images/pickleball_dashboard.png)
 
