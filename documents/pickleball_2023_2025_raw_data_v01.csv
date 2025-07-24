@@ -1,0 +1,418 @@
+session_id,date,city,state,address,latitude,longitude,court_name,session_type,court_type,time_spent_mins,weekday
+1,11/1/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,120,Wednesday
+2,11/2/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Thursday
+3,11/7/2023,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,90,Tuesday
+4,11/8/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,150,Wednesday
+5,11/9/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Thursday
+6,11/14/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Tuesday
+7,11/15/2023,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Wednesday
+8,11/21/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,240,Tuesday
+9,11/22/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,150,Wednesday
+10,11/24/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,360,Friday
+11,11/25/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,420,Saturday
+12,11/28/2023,kissimmee,florida,3251 prime park circle,28.3449327,-81.4754674,prime_community,drill,outdoors,120,Tuesday
+13,11/28/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Tuesday
+14,11/29/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,270,Wednesday
+15,12/1/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Friday
+16,12/6/2023,san_mateo,california,2720 alameda de las pulgas,37.5379,-122.3121,beresford_park,recreation,outdoors,60,Wednesday
+17,12/7/2023,san_mateo,california,2720 alameda de las pulgas,37.5379,-122.3121,beresford_park,recreation,outdoors,30,Thursday
+18,12/10/2023,piedmont,california,100 lake ave,37.8239,-122.3121,beach_elementary,recreation,outdoors,120,Sunday
+19,12/11/2023,santa_cruz,california,1451 30th ave,36.97078,-121.97441,brommer_park,recreation,outdoors,30,Monday
+20,12/12/2023,daly_city,california,1150 wayland st,37.72252746,-122.4127406,louis_sutter_park,recreation,outdoors,60,Tuesday
+21,12/13/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,180,Wednesday
+22,12/14/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,180,Thursday
+23,12/15/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Friday
+24,12/17/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Sunday
+25,12/19/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,120,Tuesday
+26,12/20/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Wednesday
+27,12/21/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Thursday
+28,12/23/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,60,Saturday
+29,12/26/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,180,Tuesday
+30,12/27/2023,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,180,Wednesday
+31,12/28/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Thursday
+32,12/29/2023,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Friday
+33,1/1/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Monday
+34,1/2/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,240,Tuesday
+35,1/3/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Wednesday
+36,1/3/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Wednesday
+37,1/4/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,240,Thursday
+38,1/5/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,240,Friday
+39,1/6/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,180,Saturday
+40,1/7/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,60,Sunday
+41,1/8/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Monday
+42,1/9/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,120,Tuesday
+43,1/9/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,300,Tuesday
+44,1/10/2024,oldsmar,florida,423 lafayette blvd,28.0311,-82.6569,bicentennial_park,recreation,outdoors,240,Wednesday
+45,1/11/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,60,Thursday
+46,1/13/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Saturday
+47,1/15/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,60,Monday
+48,1/16/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+49,1/17/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,240,Wednesday
+50,1/17/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,90,Wednesday
+51,1/18/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,180,Thursday
+52,1/19/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+53,1/20/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,300,Saturday
+54,1/21/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Sunday
+55,1/22/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,300,Monday
+56,1/23/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+57,1/23/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,270,Tuesday
+58,1/24/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,240,Wednesday
+59,1/24/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,120,Wednesday
+60,1/25/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,60,Thursday
+61,1/26/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Friday
+62,1/27/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,240,Saturday
+63,1/28/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,120,Sunday
+64,1/28/2024,winter_garden,florida,420 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Sunday
+65,1/29/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Monday
+66,1/30/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,180,Tuesday
+67,1/31/2024,oldsmar,florida,423 lafayette blvd,28.0311,-82.6569,bicentennial_park,recreation,outdoors,90,Wednesday
+68,1/31/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,120,Wednesday
+69,2/1/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,90,Thursday
+70,2/2/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Friday
+71,2/2/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Friday
+72,2/2/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,120,Friday
+73,2/2/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+74,2/3/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Saturday
+75,2/4/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,30,Sunday
+76,2/4/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Sunday
+77,2/5/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,30,Monday
+78,2/5/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,240,Monday
+79,2/6/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+80,2/6/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,180,Tuesday
+81,2/6/2024,winter_garden,florida,420 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,90,Tuesday
+82,2/7/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,270,Wednesday
+83,2/8/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,60,Thursday
+84,2/8/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,30,Thursday
+85,2/9/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Friday
+86,2/9/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+87,2/10/2024,tampa,florida,8599 n 26th st,28.02844547,-82.43031065,rowlett_park,drill,outdoors,30,Saturday
+88,2/10/2024,saint_petersburg,florida,5801 22nd ave n,27.79282291,-82.71522042,jw_cate_park,recreation,outdoors,60,Saturday
+89,2/11/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,270,Sunday
+90,2/12/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,180,Monday
+91,2/13/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+92,2/13/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,30,Tuesday
+93,2/14/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,270,Wednesday
+94,2/15/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,270,Thursday
+95,2/16/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Friday
+96,2/17/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,60,Saturday
+97,2/19/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Monday
+98,2/20/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+99,2/21/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Wednesday
+100,2/21/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Wednesday
+101,2/22/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Thursday
+102,2/22/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Thursday
+103,2/23/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Friday
+104,2/23/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Friday
+105,2/24/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Saturday
+106,2/25/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,180,Sunday
+107,2/25/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,270,Sunday
+108,2/26/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,180,Monday
+109,2/27/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+110,2/27/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,90,Tuesday
+111,2/28/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Wednesday
+112,2/29/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,180,Thursday
+113,2/29/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Thursday
+114,3/1/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Friday
+115,3/1/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Friday
+116,3/2/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,Recreation,outdoors,180,Saturday
+117,3/2/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,210,Saturday
+118,3/3/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,Recreation,outdoors,180,Sunday
+119,3/4/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,90,Monday
+120,3/5/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+121,3/5/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Tuesday
+122,3/5/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Tuesday
+123,3/6/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,180,Wednesday
+124,3/7/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Thursday
+125,3/7/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,drill,outdoors,150,Thursday
+126,3/8/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Friday
+127,3/9/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,150,Saturday
+128,3/10/2024,winter_garden,florida,420 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Sunday
+129,3/11/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,120,Monday
+130,3/12/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Tuesday
+131,3/12/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,90,Tuesday
+132,3/13/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,150,Wednesday
+133,3/14/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,180,Thursday
+134,3/15/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,60,Friday
+135,3/15/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,180,Friday
+136,3/16/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,270,Saturday
+137,3/16/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Saturday
+138,3/17/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Sunday
+139,3/18/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,180,Monday
+140,3/19/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,240,Tuesday
+141,3/20/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,90,Wednesday
+142,3/21/2024,tampa,florida,8599 n 26th st,28.02844547,-82.43031065,rowlett_park,drill,outdoors,150,Thursday
+143,3/22/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,360,Friday
+144,3/22/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+145,3/24/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,60,Sunday
+146,3/24/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Sunday
+147,3/25/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Monday
+148,3/26/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,60,Tuesday
+149,3/26/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,120,Tuesday
+150,3/27/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,90,Wednesday
+151,3/28/2024,dallas,texas,16600 hillcrest rd,32.9778,-96.787,campbell_green,recreation,outdoors,120,Thursday
+152,3/28/2024,dallas,texas,798 willie st,33.18974053,-96.62059415,finch_park,recreation,outdoors,90,Thursday
+153,3/30/2024,dallas,texas,16600 hillcrest rd,32.9778,-96.787,campbell_green,recreation,outdoors,210,Saturday
+154,3/31/2024,dallas,texas,16600 hillcrest rd,32.9778,-96.787,campbell_green,recreation,outdoors,210,Sunday
+155,4/1/2024,dallas,texas,16600 hillcrest rd,32.9778,-96.787,campbell_green,recreation,outdoors,180,Monday
+156,4/3/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Wednesday
+157,4/4/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Thursday
+158,4/7/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Sunday
+159,4/7/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Sunday
+160,4/7/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Sunday
+161,4/9/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,60,Tuesday
+162,4/9/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Tuesday
+163,4/10/2024,orlando,florida,13615 sachs avenue,28.37109041,-81.26156273,laureate_park,recreation,outdoors,120,Wednesday
+164,4/10/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Wednesday
+165,4/11/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,90,Thursday
+166,4/13/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Saturday
+167,4/14/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,90,Sunday
+168,4/14/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Sunday
+169,4/14/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,210,Sunday
+170,4/16/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Tuesday
+171,4/17/2024,winter_springs,florida,1000 central winds dr,28.7081326,-81.27504164,central_winds_park,recreation,outdoors,240,Wednesday
+172,4/17/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,30,Wednesday
+173,4/18/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,90,Thursday
+174,4/19/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Friday
+175,4/21/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Sunday
+176,4/23/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,60,Tuesday
+177,4/23/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Tuesday
+178,4/24/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Wednesday
+179,4/25/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,60,Thursday
+180,4/26/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,150,Friday
+181,4/28/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,180,Sunday
+182,4/30/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,180,Tuesday
+183,5/1/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Wednesday
+184,5/1/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Wednesday
+185,5/3/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Friday
+186,5/4/2024,tampa,florida,2640 n lakeview dr,28.10955869,-82.48950257,north_lake_park,drill,outdoors,120,Saturday
+187,5/6/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,150,Monday
+188,5/7/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,90,Tuesday
+189,5/10/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,120,Friday
+190,5/12/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,480,Sunday
+191,5/13/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,120,Monday
+192,5/14/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Tuesday
+193,5/17/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Friday
+194,5/18/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,240,Saturday
+195,5/19/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,60,Sunday
+196,5/19/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Sunday
+197,5/20/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Monday
+198,5/20/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,90,Monday
+199,5/20/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Monday
+200,5/22/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,30,Wednesday
+201,5/24/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,180,Friday
+202,5/25/2024,orlando,florida,10180 eagle creek center blvd,28.3766,-81.2586,eagle_creek,drill,outdoors,90,Saturday
+203,5/25/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,drill,outdoors,60,Saturday
+204,5/25/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Saturday
+205,5/26/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,300,Sunday
+206,5/28/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,recreation,outdoors,120,Tuesday
+207,5/30/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Thursday
+208,5/31/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+209,5/31/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,150,Friday
+210,6/1/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,120,Saturday
+211,6/1/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,240,Saturday
+212,6/4/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Tuesday
+213,6/6/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Thursday
+214,6/7/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+215,6/7/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,60,Friday
+216,6/8/2024,winter_garden,florida,420 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Saturday
+217,6/9/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Sunday
+218,6/11/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,210,Tuesday
+219,6/12/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Wednesday
+220,6/13/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Thursday
+221,6/14/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+222,6/15/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Saturday
+223,6/16/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Sunday
+224,6/18/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Tuesday
+225,6/19/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Wednesday
+226,6/20/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Thursday
+227,6/21/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+228,6/21/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,drill,outdoors,90,Friday
+229,6/22/2024,tampa,florida,2640 n lakeview dr,28.10955869,-82.48950257,north_lake_park,recreation,outdoors,60,Saturday
+230,6/22/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Saturday
+231,6/23/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Sunday
+232,6/24/2025,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,120,Tuesday
+233,6/25/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Tuesday
+234,6/26/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Wednesday
+235,6/27/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Thursday
+236,6/27/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Thursday
+237,6/28/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,180,Friday
+238,6/29/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Saturday
+239,6/30/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Sunday
+240,6/30/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Sunday
+241,7/3/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Wednesday
+242,7/4/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Thursday
+243,7/5/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,120,Friday
+244,7/6/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Saturday
+245,7/6/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Saturday
+246,7/6/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Saturday
+247,7/7/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Sunday
+248,7/8/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,recreation,outdoors,150,Monday
+249,7/11/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Thursday
+250,7/12/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Friday
+251,7/13/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Saturday
+252,7/14/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Sunday
+253,7/14/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,120,Sunday
+254,7/15/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Monday
+255,7/17/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Wednesday
+256,7/18/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,120,Thursday
+257,7/19/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,90,Friday
+258,7/20/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Saturday
+259,7/21/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Sunday
+260,7/22/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,60,Monday
+261,7/24/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Wednesday
+262,7/25/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Thursday
+263,7/30/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Tuesday
+264,8/2/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Friday
+265,8/3/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,240,Saturday
+266,8/4/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,240,Sunday
+267,8/5/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Monday
+268,8/5/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Monday
+269,8/7/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,90,Wednesday
+270,8/8/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,90,Thursday
+271,8/9/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Friday
+272,8/10/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,60,Saturday
+273,8/10/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,90,Saturday
+274,8/10/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,240,Saturday
+275,8/11/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Sunday
+276,8/12/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,120,Monday
+277,8/15/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,120,Thursday
+278,8/15/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Thursday
+279,8/16/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Friday
+280,8/17/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,210,Saturday
+281,8/19/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,120,Monday
+282,8/19/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,240,Monday
+283,8/21/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,120,Wednesday
+284,8/21/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,120,Wednesday
+285,8/23/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,180,Friday
+286,8/24/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,300,Saturday
+287,8/25/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Sunday
+288,8/26/2024,saint_cloud,florida,317 delaware ave,28.25608274,-81.27168644,godwin_park,drill,outdoors,90,Monday
+289,8/27/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Tuesday
+290,8/28/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Wednesday
+291,8/30/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,120,Friday
+292,8/30/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Friday
+293,8/31/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Saturday
+294,9/2/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Monday
+295,9/2/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Monday
+296,9/4/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,150,Wednesday
+297,9/6/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Friday
+298,9/6/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Friday
+299,9/7/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,240,Saturday
+300,9/8/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,90,Sunday
+301,9/8/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,180,Sunday
+302,9/8/2024,orlando,florida,8151 lake forest dr,28.38163394,-81.49327608,mickeys_retreat,drill,outdoors,60,Sunday
+303,9/11/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,180,Wednesday
+304,9/11/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Wednesday
+305,9/13/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,180,Friday
+306,9/13/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,210,Friday
+307,9/14/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Saturday
+308,9/14/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Saturday
+309,9/16/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,120,Monday
+310,9/18/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,360,Wednesday
+311,9/20/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Friday
+312,9/20/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Friday
+313,9/21/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Saturday
+314,9/22/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,90,Sunday
+315,9/25/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,120,Wednesday
+316,9/25/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Wednesday
+317,9/25/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,90,Wednesday
+318,9/27/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,300,Friday
+319,9/27/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,recreation,outdoors,240,Friday
+320,9/29/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,90,Sunday
+321,10/2/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,240,Wednesday
+322,10/4/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,60,Friday
+323,10/4/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Friday
+324,10/4/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Friday
+325,10/4/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,240,Friday
+326,10/6/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Sunday
+327,10/7/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,120,Monday
+328,10/7/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,150,Monday
+329,10/8/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,120,Tuesday
+330,10/9/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,240,Wednesday
+331,10/11/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,480,Friday
+332,10/12/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,240,Saturday
+333,10/14/2024,orlando,florida,10000 usta blvd,28.40055883,-81.27885519,usta,recreation,outdoors,60,Monday
+334,10/15/2024,orlando,florida,10026 lake district ln,28.42222748,-81.23571041,east_park,recreation,outdoors,120,Tuesday
+335,10/15/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,drill,outdoors,60,Tuesday
+336,10/16/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Wednesday
+337,10/17/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Thursday
+338,10/18/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Friday
+339,10/18/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,360,Friday
+340,10/20/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,recreation,outdoors,150,Sunday
+341,10/20/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Sunday
+342,10/21/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,120,Monday
+343,10/22/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Tuesday
+344,10/23/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Wednesday
+345,10/24/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,150,Thursday
+346,10/25/2024,orlando,florida,10107 flower ave,28.56583971,-81.24066874,downey_park,drill,outdoors,30,Friday
+347,10/26/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Saturday
+348,10/28/2024,orlando,florida,1400 gaston foster rd,28.52556489,-81.32574814,dover_shores,drill,outdoors,90,Monday
+349,10/29/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,480,Tuesday
+350,10/30/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Wednesday
+351,11/1/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Friday
+352,11/1/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,480,Friday
+353,11/4/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,120,Monday
+354,11/5/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,120,Tuesday
+355,11/6/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Wednesday
+356,11/7/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,240,Thursday
+357,11/8/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,120,Friday
+358,11/8/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Friday
+359,11/8/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Friday
+360,11/9/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Saturday
+361,11/9/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,180,Saturday
+362,11/10/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,60,Sunday
+363,11/12/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Tuesday
+364,11/12/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,180,Tuesday
+365,11/16/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,90,Saturday
+366,11/16/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,210,Saturday
+367,11/17/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,360,Sunday
+368,11/20/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,120,Wednesday
+369,11/22/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Friday
+370,11/22/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,90,Friday
+371,11/24/2024,jupiter,florida,3377 church st,26.94658173,-80.14771252,jupiter_community_park,recreation,outdoors,150,Sunday
+372,11/27/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Wednesday
+373,11/28/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,240,Thursday
+374,11/29/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Friday
+375,12/1/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Sunday
+376,12/1/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,300,Sunday
+377,12/3/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,90,Tuesday
+378,12/3/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Tuesday
+379,12/4/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,60,Wednesday
+380,12/5/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Thursday
+381,12/5/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Thursday
+382,12/6/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Friday
+383,12/6/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,120,Friday
+384,12/7/2024,winter_springs,florida,1000 central winds dr,28.7081326,-81.27504164,central_winds_park,drill,outdoors,60,Saturday
+385,12/8/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Sunday
+386,12/9/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Monday
+387,12/10/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,560,Tuesday
+388,12/11/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Wednesday
+389,12/12/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,90,Thursday
+390,12/12/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Thursday
+391,12/13/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Friday
+392,12/14/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Saturday
+393,12/15/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,210,Sunday
+394,12/16/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,60,Monday
+395,12/17/2024,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,150,Tuesday
+396,12/18/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Wednesday
+397,12/19/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Thursday
+398,12/20/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Friday
+399,12/21/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,180,Saturday
+400,12/23/2024,jupiter,florida,3377 church st,26.94658173,-80.14771252,jupiter_community_park,recreation,outdoors,60,Monday
+401,12/24/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Tuesday
+402,12/26/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Thursday
+403,12/27/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,120,Friday
+404,12/28/2024,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,120,Saturday
+405,12/28/2024,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,180,Saturday
+406,12/30/2024,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Monday
+407,12/31/2024,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,90,Tuesday
+408,1/2/2025,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,150,Thursday
+409,1/2/2025,kissimmee,florida,717 n palm ave,28.299714,-81.42062566,oak_street_park,drill,outdoors,120,Thursday
+410,1/3/2025,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,240,Saturday
+411,1/6/2025,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,recreation,outdoors,180,Monday
+412,1/7/2025,orlando,florida,7059 s orange blossom trl,28.46390717,-81.39564909,orlando_racquet_sports,recreation,indoors,90,Tuesday
+413,1/7/2025,winter_park,florida,2525 cady way trail,28.5962656,-81.31660878,cady_way_park,recreation,outdoors,240,Tuesday
+414,1/8/2025,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Wednesday
+415,1/10/2025,winter_garden,florida,421 s park ave,28.55995116,-81.59439271,veterans_memorial_park,drill,outdoors,180,Friday
+416,1/10/2025,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,180,Friday
+417,1/12/2025,orlando,florida,4141 john young pkwy,28.5873,-81.4145,clearone,recreation,indoors,150,Sunday
